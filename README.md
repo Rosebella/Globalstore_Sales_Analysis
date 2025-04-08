@@ -14,6 +14,7 @@ Central showed the most profitability
 #Files Included
 Dashboard Shots
 GlobalStore Sales Performance Report
+GlobalStore Sales Performance Dashboard
 
 #Conclusion
 This analysis provides a comprehensive view of the business's sales and profit dynamics. It helps identify top performing segments, regions, and product categories to inform strategic decisions.
